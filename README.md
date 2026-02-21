@@ -1,52 +1,72 @@
-# ⚡ Senior-Level Portfolio | Vijay Sumara
+<h1 align="center">Vijay Sumara</h1>
+<h3 align="center">Full-Stack Developer | Backend-Focused Engineer | System Design Enthusiast</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vijay%20Sumara&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
-
-### 👨‍💻 About the Architect
-I am a **Full-Stack Developer** specializing in building high-performance applications. I don't just write code; I engineer solutions. Currently deep-diving into **System Architecture** and **Advanced Java Frameworks**.
-
-- 🚀 **Current Mission:** Scaling the [Mandi-Setu Project](https://github.com/Vijaysumara/Mandi-Setu-Challenge)
-- 🧠 **Learning:** Cloud Native Microservices & React Native
-- 💬 **Ask me about:** Java, JavaScript, and Hackathon Strategies
-- 📫 **Connect:** [Your-LinkedIn-Link]
-
----
-
-### 🛠️ Strategic Tech Stack
-> *“The tools don't make the developer, but they sure do help.”*
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,nodejs,react,express,mongodb,mysql,git,github,docker,aws&theme=dark" />
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Vijaysumara">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
-### 📊 Performance Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijaysumara&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijaysumara&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## 🧠 About Me
+
+I build structured, scalable, and performance-driven applications.  
+My focus is not just writing code — but engineering reliable systems.
+
+- 🔭 Currently building real-world full-stack projects  
+- 🌱 Exploring advanced backend systems & cloud architecture  
+- 💡 Strong in Java, backend logic, and clean architecture  
+- 🎯 Goal: Become a high-level Software Engineer & System Architect  
+
+---
+
+## ⚙️ Core Technical Stack
+
+### Programming Languages
+`Java` `JavaScript` `C` `SQL`
+
+### Backend Development
+`Node.js` `Express.js` `Django`
+
+### Frontend Development
+`React` `HTML5` `CSS3`
+
+### Databases
+`MySQL` `MongoDB` `Firebase` `SQLite`
+
+### Tools
+`Git` `GitHub` `Postman` `AWS` `Figma`
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaysumara&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijaysumara&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaysumara&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-### 🌟 Recognition & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vijaysumara&theme=tokyonight&no-bg=true&column=4" width="100%" />
-</p>
+## 🏗 Engineering Philosophy
 
----
+```java
+class VijaySumara {
 
-### 📈 Coding Activity
-![Vijay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vijaysumara&theme=tokyo-night&hide_border=true)
+    String mindset = "Build scalable systems";
+    String approach = "Clean Architecture & Structured Thinking";
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-brightgreen?style=for-the-badge" />
-</p>
+    void develop() {
+        design();
+        build();
+        optimize();
+        deploy();
+    }
+}
