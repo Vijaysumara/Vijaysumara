@@ -1,71 +1,62 @@
 <h1 align="center">Vijay Sumara</h1>
-<h3 align="center">Full-Stack Developer | Backend-Focused Engineer | System Design Enthusiast</h3>
+
+<p align="center">
+  <b>Full-Stack Developer</b> • Backend-Focused Engineer • System Design Learner
+</p>
 
 <p align="center">
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail">
   </a>
   <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="https://github.com/Vijaysumara">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github">
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## Profile
 
-I build structured, scalable, and performance-driven applications.  
-My focus is not just writing code — but engineering reliable systems.
+Full-stack developer focused on building structured, scalable and production-ready systems.
 
-- 🔭 Currently building real-world full-stack projects  
-- 🌱 Exploring advanced backend systems & cloud architecture  
-- 💡 Strong in Java, backend logic, and clean architecture  
-- 🎯 Goal: Become a high-level Software Engineer & System Architect  
+I specialize in backend logic, database architecture, and clean system design.
+My goal is to evolve into a high-impact software engineer capable of designing enterprise-grade applications.
 
 ---
 
-## ⚙️ Core Technical Stack
+## Tech Expertise
 
-### Programming Languages
-`Java` `JavaScript` `C` `SQL`
+**Languages**
+Java • JavaScript • C • SQL  
 
-### Backend Development
-`Node.js` `Express.js` `Django`
+**Backend**
+Node.js • Express • Django  
 
-### Frontend Development
-`React` `HTML5` `CSS3`
+**Frontend**
+React • HTML • CSS  
 
-### Databases
-`MySQL` `MongoDB` `Firebase` `SQLite`
+**Databases**
+MySQL • MongoDB • Firebase • SQLite  
 
-### Tools
-`Git` `GitHub` `Postman` `AWS` `Figma`
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijaysumara&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijaysumara&theme=tokyonight" height="165"/>
-</p>
+**Tools**
+Git • Postman • AWS • Figma  
 
 ---
 
-## 🏗 Engineering Philosophy
+## Engineering Approach
 
 ```java
-class VijaySumara {
+public class VijaySumara {
 
-    String mindset = "Build scalable systems";
-    String approach = "Clean Architecture & Structured Thinking";
+    private final String mindset = "Build scalable systems";
+    private final String principle = "Clean architecture over quick hacks";
 
-    void develop() {
+    public void developProduct() {
         design();
-        build();
+        implement();
         optimize();
         deploy();
     }
