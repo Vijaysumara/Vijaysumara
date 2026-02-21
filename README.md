@@ -22,23 +22,23 @@
 
 ---
 
+
+
 # 💻 SKILL POWER LEVEL
 
 <p align="center">
 
-Backend  
-<img src="https://progress-bar.dev/90/?scale=100&title=Backend&width=400&color=00f7ff"/>
-
-System Design  
-<img src="https://progress-bar.dev/85/?scale=100&title=System+Design&width=400&color=ff00cc"/>
-
-Cloud  
-<img src="https://progress-bar.dev/80/?scale=100&title=Cloud&width=400&color=00f7ff"/>
-
-DSA  
-<img src="https://progress-bar.dev/88/?scale=100&title=DSA&width=400&color=ff00cc"/>
+<img src="https://img.shields.io/badge/Backend-90%25-00f7ff?style=for-the-badge&logo=server&logoColor=black" />
+<br><br>
+<img src="https://img.shields.io/badge/System%20Design-85%25-ff00cc?style=for-the-badge&logo=diagram&logoColor=black" />
+<br><br>
+<img src="https://img.shields.io/badge/Cloud-80%25-00f7ff?style=for-the-badge&logo=icloud&logoColor=black" />
+<br><br>
+<img src="https://img.shields.io/badge/DSA-88%25-ff00cc?style=for-the-badge&logo=code&logoColor=black" />
 
 </p>
+
+
 
 ---
 
