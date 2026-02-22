@@ -83,10 +83,10 @@
 # 🌐 CONNECT
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:sumravijay4646@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-00f7ff?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/vijay-sumara">
     <img src="https://img.shields.io/badge/LINKEDIN-ff00cc?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
